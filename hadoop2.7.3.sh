@@ -7,7 +7,7 @@
 # Organization: https://github.com/whaleai
 # Date:20161027
 
-export HADOOP_HOME="/opt/hadoop-3.0.0"
+export HADOOP_HOME="/opt/hadoop-2.7.3"
 export PATH="$HADOOP_HOME/bin:$PATH"
 export HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
 export YARN_CONF_DIR=$HADOOP_HOME/etc/hadoop

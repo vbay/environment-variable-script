@@ -5,5 +5,5 @@
 # Date:20161125
 # Path:/etc/profile.d/zookeeper-3.4.9.sh
 
-export ZOOKEEPER_HOME=/opt/zookeeper-3.4.9
+export ZOOKEEPER_HOME=/opt/zookeeper-3.4.10
 export PATH=$PATH:$ZOOKEEPER_HOME/bin:$ZOOKEEPER_HOME/conf
